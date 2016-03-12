@@ -1,5 +1,5 @@
 # DratSky
-A SkyGo launcher and controller, which can be launched in Kodi via Advanced Launcher.
+A SkyGo launcher and controller for Windows, which can be launched in Kodi via Advanced Launcher.
 
 To install:
 
