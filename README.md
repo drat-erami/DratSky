@@ -27,8 +27,9 @@ CONFIGURATION
     6. DratSky is now set up.
 
 -----------------
-UPCOMING FEATURES
+UPDATE 13/03/2016 - Version 1.0.3
 
     1. Fullscreen on start up option.
-    2. Onscreen menu timeout.
-    3. Menu on until cancelled option.
+    2. Customisable menu timeout.
+    3. Cancel button added.
+    4. Keep menu open until watch or cancel clicked.
