@@ -21,7 +21,7 @@ CONFIGURATION
 
     1. Run DratSky.
     2. The splash screen will appear, followed by a window asking for your Sky username and password.
-    3. Next, a window will appear saying, "The file, 'config.ini', is missing. Please configure the keys."
+    3. Next, a window will appear saying, 'Welcome to DratSky. Let's set a few things up.'
     4. Here you can map your keyboard or remote, and click OK.
     5. Follow the instructions on screen to calibrate the screen controls.
     6. DratSky is now set up.
