@@ -26,10 +26,15 @@ CONFIGURATION
     5. Follow the instructions on screen to calibrate the screen controls.
     6. DratSky is now set up.
 
------------------
+---------------------------------
 UPDATE 13/03/2016 - Version 1.0.3
 
     1. Fullscreen on start up option.
     2. Customisable menu timeout.
     3. Cancel button added.
     4. Keep menu open until watch or cancel clicked option.
+
+----------------
+PLANNED FEATURES
+
+    1. Joypad support.
