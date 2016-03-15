@@ -1,5 +1,5 @@
 # DratSky
-A SkyGo launcher and controller for Windows, which can be launched in Kodi via Advanced Launcher.
+A Sky Go launcher and controller for Windows. The program allows the user to control Sky Go via the keyboard or a remote control, making it easier to use via a 10-foot interface. The program can be launched from Kodi using Advanced Launcher.
 
 -----
 SETUP
