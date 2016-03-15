@@ -28,7 +28,7 @@ KODI INTEGRATION
     12. To launch the program quickly, you can press menu then 'Add to favourites'.
 
 ---------------------------------
-UPDATE 13/03/2016 - Version 1.0.3
+UPDATE 14/03/2016 - Version 1.0.3
 
     1. Fullscreen on start up option.
     2. Customisable menu timeout.
