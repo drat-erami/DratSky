@@ -1,9 +1,10 @@
-# DratSky
+## DratSky
 
 A Sky Go launcher and controller for Windows. The program allows the user to control Sky Go via the keyboard or a remote control, making it easier to use via a 10-foot interface. The program can be launched from Kodi using Advanced Launcher.
 
-Setup
------
+---
+
+###Setup
 
     1. Run DratSky.
     2. The splash screen will appear, followed by a window asking for your Sky username and password.
@@ -12,8 +13,9 @@ Setup
     5. Follow the instructions on screen to calibrate the screen controls.
     6. DratSky is now set up.
 
-Kodi Integration
-----------------
+---
+###Kodi Integration
+
 
     1.  Install Advanced Launcher
     2.  Run Advanced Launcher.
@@ -28,15 +30,15 @@ Kodi Integration
     11. Press 'cancel' on the Select Fanarts path.
     12. To launch the program quickly, you can press menu then 'Add to favourites'.
 
-Update 14/03/2016 - Version 1.0.3
----------------------------------
+---
+###Update 14/03/2016 - Version 1.0.3
 
     1. Fullscreen on start up option.
     2. Customisable menu timeout.
     3. Cancel button added.
     4. Keep menu open until watch or cancel clicked option.
 
-Planned Features
-----------------
+---
+###Planned Features
 
     1. Joypad support.
