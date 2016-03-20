@@ -29,6 +29,14 @@ A Sky Go launcher and controller for Windows. The program allows the user to con
     10. Press 'cancel' on the Select Thumbnails path.
     11. Press 'cancel' on the Select Fanarts path.
     12. To launch the program quickly, you can press menu then 'Add to favourites'.
+---
+
+###Update 20/03/2015 - Version 1.0.4
+
+    1. Joypad support.
+    2. Auto-zoom to fit screen (for low-res screens).
+    3. Refresh button (in case of errors from SkyGo).
+    4. Installation program.
 
 ---
 ###Update 14/03/2016 - Version 1.0.3
@@ -41,4 +49,4 @@ A Sky Go launcher and controller for Windows. The program allows the user to con
 ---
 ###Planned Features
 
-    1. Joypad support.
+    1. OnDemand Support.
