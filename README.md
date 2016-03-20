@@ -16,7 +16,6 @@ A Sky Go launcher and controller for Windows. The program allows the user to con
 ---
 ###Kodi Integration
 
-
     1.  Install Advanced Launcher
     2.  Run Advanced Launcher.
     3.  Press the menu button.
@@ -49,4 +48,6 @@ A Sky Go launcher and controller for Windows. The program allows the user to con
 ---
 ###Planned Features
 
-    1. OnDemand Support.
+    1. Support for On Demand (Box Sets and Catch Up TV).
+    2. Search.
+    3. Monitor selection.
