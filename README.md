@@ -51,3 +51,4 @@ A Sky Go launcher and controller for Windows. The program allows the user to con
     1. Support for On Demand (Box Sets and Catch Up TV).
     2. Search.
     3. Monitor selection.
+    4. Improved error handling.
