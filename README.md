@@ -36,3 +36,10 @@ Go to [DratSky Support](http://draterami.dx.am/?page=dratsky-support).
     2. Search.
     3. Monitor selection.
     4. Improved error handling.
+    5. Automatic screen calibration.
+    6. Mobile remote control functionality on smartphones.
+    7. Improved installation program.
+
+The screen calibration process was designed to overcome the issue of locating onscreen controls on screens of different resolutions. I've been testing new methods of determining the position of onscreen controls automatically, which should work for most, if not all, users. Hopefully, this functionality should be available in the next release.
+
+I've also been researching how to make a remote control interface for smartphones. This will enable users without IR remotes or joypads to benefit from the use of a 10-foot user interface (controlling DratSky from the comfort of your sofa).
