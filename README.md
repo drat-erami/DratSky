@@ -8,6 +8,18 @@ A Sky Go launcher and controller for Windows. The program allows the user to con
 Go to [DratSky Support](http://draterami.dx.am/?page=dratsky-support).
 
 ---
+###Update 28/03/2016 - Version 1.0.5
+
+The screen calibration process was designed to overcome the issue of locating onscreen controls on screens of different resolutions. The new method of determining the position of onscreen controls automatically should work for most, if not all, users.
+
+New features:
+
+    1. Automatic screen calibration.
+    2. Improved installation program.
+    3. Monitor selection.
+    4. Improved website support.
+
+---
 ###Update 21/03/2015 - Version 1.0.4.1
 
     1. Bug fixes.
@@ -34,12 +46,6 @@ Go to [DratSky Support](http://draterami.dx.am/?page=dratsky-support).
 
     1. Support for On Demand (Box Sets and Catch Up TV).
     2. Search.
-    3. Monitor selection.
-    4. Improved error handling.
-    5. Automatic screen calibration.
-    6. Mobile remote control functionality on smartphones.
-    7. Improved installation program.
+    3. Mobile remote control functionality on smartphones.
 
-The screen calibration process was designed to overcome the issue of locating onscreen controls on screens of different resolutions. I've been testing new methods of determining the position of onscreen controls automatically, which should work for most, if not all, users. Hopefully, this functionality should be available in the next release.
-
-I've also been researching how to make a remote control interface for smartphones. This will enable users without IR remotes or joypads to benefit from the use of a 10-foot user interface (controlling DratSky from the comfort of your sofa).
+I've been researching how to make a remote control interface for smartphones. This will enable users without IR remotes or joypads to benefit from the use of a 10-foot user interface (controlling DratSky from the comfort of your sofa).
