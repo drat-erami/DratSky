@@ -12,7 +12,7 @@ Go to [DratSky Support](http://draterami.dx.am/?page=dratsky-support).
 
 The screen calibration process was designed to overcome the issue of locating onscreen controls on screens of different resolutions. The new method of determining the position of onscreen controls automatically should work for most, if not all, users.
 
-New features:
+####New features:
 
     1. Automatic screen calibration.
     2. Improved installation program.
