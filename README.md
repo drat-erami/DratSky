@@ -23,6 +23,8 @@ The screen calibration process was designed to overcome the issue of locating on
 
 The improved website support forces the Sky Go website to recognise DratSky's built in browser as the latest version of Internet Explorer in order to overcome some compatibility issues.
 
+The new installation program allows the user to customise the setup process by selecting the start menu location, and adding the option to create a desktop shortcut.
+
 ---
 ###Update 21/03/2015 - Version 1.0.4.1
 
