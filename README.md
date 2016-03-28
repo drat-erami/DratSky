@@ -10,14 +10,18 @@ Go to [DratSky Support](http://draterami.dx.am/?page=dratsky-support).
 ---
 ###Update 28/03/2016 - Version 1.0.5
 
-The screen calibration process was designed to overcome the issue of locating onscreen controls on screens of different resolutions. The new method of determining the position of onscreen controls automatically should work for most, if not all, users.
-
 ####New features:
 
     1. Automatic screen calibration.
     2. Improved installation program.
     3. Monitor selection.
     4. Improved website support.
+
+####Details:
+
+The screen calibration process was designed to overcome the issue of locating onscreen controls on screens of different resolutions. The new method of determining the position of onscreen controls automatically should work for most, if not all, users.
+
+The improved website support forces the Sky Go website to recognise DratSky's built in browser as the latest version of Internet Explorer in order to overcome some compatibility issues.
 
 ---
 ###Update 21/03/2015 - Version 1.0.4.1
